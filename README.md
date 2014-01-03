@@ -4,4 +4,4 @@ The baddest type racer out there. Mr. Samuel L. Jackson 'encourages' you during 
 
 Check it out live:
 
-[sljracer.herokuapp.com](http://sljracer.herokuapp.com)
+[http://sljracer.herokuapp.com](http://sljracer.herokuapp.com)
